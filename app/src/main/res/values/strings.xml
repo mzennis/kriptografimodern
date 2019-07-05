@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Kriptografi</string>
+
+    <string-array name="mode">
+        <item>ECB</item>
+        <item>CBC</item>
+    </string-array>
+
+    <string-array name="size">
+        <item>128</item>
+        <item>192</item>
+        <item>256</item>
+    </string-array>
+
+</resources>
